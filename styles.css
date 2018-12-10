@@ -5,7 +5,7 @@
 #main-table {
     background-color: bisque;
     margin: auto;
-    margin-top: 2%;
+    margin-top: 0%;
     width: 90%;
 }
 
@@ -29,4 +29,12 @@ td:hover {
 
 #important {
     color: yellow;
+}
+
+#image {
+    width: 90%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
