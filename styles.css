@@ -26,3 +26,7 @@ th {
 td:hover {
     background: navy;
 }
+
+#important {
+    color: yellow;
+}
