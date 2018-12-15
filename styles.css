@@ -31,6 +31,10 @@ td:hover {
     color: yellow;
 }
 
+#not-important {
+    color: red;
+}
+
 #image {
     width: 90%;
     height: auto;
