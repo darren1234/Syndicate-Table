@@ -35,6 +35,10 @@ td:hover {
     color: red;
 }
 
+#test {
+    color: cyan;
+}
+
 #image {
     width: 90%;
     height: auto;
