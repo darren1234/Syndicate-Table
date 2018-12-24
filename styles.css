@@ -35,8 +35,12 @@ td:hover {
     color: red;
 }
 
+#very-important {
+    color: lightseagreen;
+}
+
 #test {
-    color: cyan;
+    color: orange;
 }
 
 #image {
