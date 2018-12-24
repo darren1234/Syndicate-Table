@@ -3,10 +3,14 @@
 }
 
 #main-table {
-    background-color: bisque;
     margin: auto;
     margin-top: 0%;
     width: 90%;
+}
+
+#legend-table {
+    margin: auto;
+    width: 50%;
 }
 
 table, tr, td, th {
@@ -36,7 +40,7 @@ td:hover {
 }
 
 #very-important {
-    color: lightseagreen;
+    color: #37dd48;
 }
 
 #test {
